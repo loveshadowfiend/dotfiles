@@ -1,6 +1,7 @@
 <h1 align="center">tokyonight dotfiles</h1>
 <p align="center">
   <img width="100%" src="screenshots/1.png" />
+  <img width="100%" src="screenshots/2.png" />
 </p>
 
 # what i use
